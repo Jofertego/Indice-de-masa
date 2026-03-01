@@ -15,7 +15,7 @@ public class Main {
         if(imc>=18.5 && imc<=24.9){
             System.out.println("Peso normal");
         }
-        if(imc>=25 && imc<=26.9){
+        if (imc>=25 && imc<=26.9){
             System.out.println("Sobre peso grado 1");
         }
         if(imc>=27 && imc<=29.9){
